@@ -49,7 +49,7 @@ $ php composer.phar update gayalab/phpbbencoderbundle
 
 ## Configuration
 
-Add the "Io" namespace to your autoloader (for Symfony 2.0)
+Add the "Gaya" namespace to your autoloader (for Symfony 2.0)
 
 ```
 // app/autoload.php
