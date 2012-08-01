@@ -16,9 +16,10 @@ This version of the bundle requires Symfony 2.0.x
 Add the following lines in your deps file:
 
 ```
- [GayaPhpbbEncoderBundle]
- git=git://github.com/GaYAlab/PhpbbEncoderBundle.git
- target=/gayalab 
+[GayaPhpbbEncoderBundle]
+    git=git://github.com/GaYAlab/PhpbbEncoderBundle.git
+    target=gayalab/Bundle/PhpbbEncoder
+
 ```
 
 Then run the vendor script:
