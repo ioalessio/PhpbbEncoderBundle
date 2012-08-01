@@ -1,0 +1,3 @@
+services:
+  gaya.phpbbencoder.security.encoder.phpbb: 
+    class: Gaya\Bundle\PhpbbEncoderBundle\Security\Encoder\PhpbbEncoder
