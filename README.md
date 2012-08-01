@@ -18,7 +18,7 @@ Add the following lines in your deps file:
 ```
 [GayaPhpbbEncoderBundle]
     git=git://github.com/GaYAlab/PhpbbEncoderBundle.git
-    target=gayalab/Bundle/PhpbbEncoder
+    target=gayalab/Bundle/PhpbbEncoderBundle
 
 ```
 
