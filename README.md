@@ -50,15 +50,18 @@ $ php composer.phar update gayalab/phpbbencoderbundle
 
 Add the "Io" namespace to your autoloader (for Symfony 2.0)
 
-```// app/autoload.php
+```
+// app/autoload.php
 $loader->registerNamespaces(array(
 'Gaya' => __DIR__.'/../vendor/gayalab',
 // your other namespaces
-));```
+));
+```
 
 Register Bundle in kernel file:
 
-```// app/ApplicationKernel.php
+```
+// app/ApplicationKernel.php
 public function registerBundles()
 {
   return array(
@@ -66,7 +69,8 @@ public function registerBundles()
   new Gaya\Bundle\PhpbbEncoderBundle(),
   // ...
   );
-}```
+}
+```
 
 =====================================
 
