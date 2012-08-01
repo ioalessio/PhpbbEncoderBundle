@@ -15,9 +15,11 @@ This version of the bundle requires Symfony 2.0.x
 
 Add the following lines in your deps file:
 
-```[IoFormBundle]
-git=git://github.com/GaYAlab/PhpbbEncoderBundle.git
-target=/gayalab```
+```
+ [IoFormBundle]
+ git=git://github.com/GaYAlab/PhpbbEncoderBundle.git
+ target=/gayalab 
+```
 
 Then run the vendor script:
 
