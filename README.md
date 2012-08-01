@@ -16,7 +16,7 @@ This version of the bundle requires Symfony 2.0.x
 Add the following lines in your deps file:
 
 ```
- [IoFormBundle]
+ [GayaPhpbbEncoderBundle]
  git=git://github.com/GaYAlab/PhpbbEncoderBundle.git
  target=/gayalab 
 ```
