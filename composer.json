@@ -2,8 +2,7 @@
     "name": "ioalessio/phpbbencoderbundle",
     "type": "symfony-bundle",
     "description": "GaYA PhpbbEncoderBundle",
-    "keywords": ["symfony2, bundle, phpbb encoder"],
-    "homepage": "https://github.com/GaYAlab",
+    "keywords": ["symfony2", "bundle", "phpbb encoder"],
     "license": "MIT",
     "authors": [
         {
@@ -11,11 +10,10 @@
             "email": "alessio@gayalab.it"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
-        "php": ">=5.3.2",
-        "symfony/framework-bundle": "*"
-    },
+		"php": ">=5.3.0",
+		"symfony/framework-bundle": ">=2.1,<2.4-dev"
+	},
     "autoload": {
         "psr-0": { "Gaya\\Bundle\\PhpbbEncoderBundle": "" }
     },
