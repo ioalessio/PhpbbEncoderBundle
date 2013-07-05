@@ -1,5 +1,5 @@
 {
-    "name": "gayalab/phpbbencoderbundle",
+    "name": "ioalessio/phpbbencoderbundle",
     "type": "symfony-bundle",
     "description": "GaYA PhpbbEncoderBundle",
     "keywords": ["symfony2, bundle, phpbb encoder"],
